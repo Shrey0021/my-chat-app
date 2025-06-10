@@ -1,4 +1,4 @@
-# ✨ Full Stack Realtime Chat App ✨
+# ✨ Chat App (RealTime) ✨
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
